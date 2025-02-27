@@ -14,9 +14,9 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Python, 
 - Interested in **ERP systems, cloud computing, and scalable database architectures**.
 
 ## 📫 Connect With Me
-- **LinkedIn**: [Your LinkedIn Profile](#)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mashraf114/)
 - **GitHub**: [mohashraf148932e7](https://github.com/mohashraf148932e7)
-- **Email**: [Your Email](mailto:your.email@example.com)
+- **Email**: [Your Email](mohamed.ashraf.shaban11@gmail.com)
 
 ## ⚡ Fun Fact
 I successfully implemented **digital transformation across six factories**, creating ERP solutions that streamlined operations and improved efficiency.
