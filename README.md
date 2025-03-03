@@ -4,7 +4,7 @@
 I'm a passionate **Full Stack Developer** with a strong foundation in **Python, JavaScript, MySQL, PostgreSQL, and React**. Currently, I'm deepening my expertise by learning **Object-Oriented Programming (OOP) in C++** and **Data Structures & Algorithms**. My background includes experience in **industrial automation** and **digital transformation**, where I worked on large-scale projects integrating IT solutions into manufacturing.
 
 ## 🎯 What I'm Working On
-- 📚 Studying **Full Stack Development** at **XYZ Institute** (until April 1).
+- 📚 Studying **Full Stack Development** at **ITI Institute** (until April 1).
 - 💻 Enhancing my skills in **C++, OOP, and Data Structures**.
 - 🏗️ Developing projects that merge **backend efficiency** with **frontend excellence**.
 - 🛠️ Exploring **DevOps, system design, and scalable web applications**.
