@@ -1,26 +1,18 @@
-# 👋 Hi friend, I'm Mohamed Ashraf!
+# 👋 Welcome to My GitHub Profile
 
-## 🚀 About Me
-I'm a passionate **Full Stack Developer** with a strong foundation in **Python, JavaScript, MySQL, PostgreSQL, and React**. Currently, I'm deepening my expertise by learning **Object-Oriented Programming (OOP) in C++** and **Data Structures & Algorithms**. My background includes experience in **industrial automation** and **digital transformation**, where I worked on large-scale projects integrating IT solutions into manufacturing.
+## 🛠 Tech Stack
+<p align="center">
+  <a href="https://github.com/mohashraf148932e7">
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,react,bash,python,django,postman,aws,apollo,graphql,linux,vite,postgres,sqlite,sqlserver,tailwindcss&theme=dark" />
+  </a>
+</p>
 
-## 🎯 What I'm Working On
-- 📚 Studying **Full Stack Development** at **ITI Institute** (until April 1).
-- 💻 Enhancing my skills in **C++, OOP, and Data Structures**.
-- 🏗️ Developing projects that merge **backend efficiency** with **frontend excellence**.
-- 🛠️ Exploring **DevOps, system design, and scalable web applications**.
-
-## 🤝 Collaboration & Interests
-- Looking to collaborate on **open-source projects**, **full-stack web applications**, and **automation tools**.
-- Interested in **ERP systems, cloud computing, and scalable database architectures**.
-
-## 📫 Connect With Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mashraf114/)
-- **GitHub**: [mohashraf148932e7](https://github.com/mohashraf148932e7)
-- **Email**: [Your Email](mailto:mohamed.ashraf.shaban11@gmail.com)
-
-## ⚡ Fun Fact
-I successfully implemented **digital transformation across six factories**, creating ERP solutions that streamlined operations and improved efficiency.
-
----
-
-⭐️ **Check out my repositories and let's build something amazing together!**
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/mohashraf148932e7">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohashraf148932e7&layout=compact&langs_count=6&theme=dracula"/>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://github-readme-streak-stats-gray-two.vercel.app?user=mohashraf148932e7&layout=compact&langs_count=6&theme=dracula" alt="GitHub Streak"/>
+  </a>
+</p>
