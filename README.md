@@ -15,7 +15,7 @@
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)  ![MySQL](https://skillicons.dev/icons?i=mysql)  ![SQLite](https://skillicons.dev/icons?i=sqlite)  
 
 ### ☁ DevOps, Cloud & Servers  
-![AWS](https://skillicons.dev/icons?i=aws)  ![Linux](https://skillicons.dev/icons?i=linux)  ![Docker](https://skillicons.dev/icons?i=docker)  ![Apache](https://skillicons.dev/icons?i=apache)  ![Nginx](https://skillicons.dev/icons?i=nginx)  
+![AWS](https://skillicons.dev/icons?i=aws)  ![Linux](https://skillicons.dev/icons?i=linux)  ![Docker](https://skillicons.dev/icons?i=docker)  ![Nginx](https://skillicons.dev/icons?i=nginx)  
 
 ## 📊 GitHub Stats
 <p align="center">
