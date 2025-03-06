@@ -3,7 +3,7 @@
 ## 🛠 Tech Stack
 <p align="center">
   <a href="https://github.com/mohashraf148932e7">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,react,bash,python,django,postman,aws,apollo,graphql,linux,vite,postgres,sqlite,sqlserver,tailwindcss&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,react,bash,python,django,postman,aws,linux,vite,postgres,sqlite,mysql&theme=dark" />
   </a>
 </p>
 
