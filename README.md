@@ -18,12 +18,13 @@
 ![AWS](https://skillicons.dev/icons?i=aws)  ![Linux](https://skillicons.dev/icons?i=linux)  ![Docker](https://skillicons.dev/icons?i=docker)  ![Nginx](https://skillicons.dev/icons?i=nginx)  
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/mashraf114">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashraf114&layout=compact&langs_count=6&theme=dracula"/>
   </a>
   <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://github-readme-streak-stats-gray-two.vercel.app?user=mashraf114&layout=compact&langs_count=6&theme=dracula" alt="GitHub Streak"/>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=mashraf114)](https://git.io/streak-stats)
+    <img height="180em" src="https://streak-stats.demolab.com?user=mashraf114&theme=dracula&hide_border=true" alt="GitHub Streak"/>
   </a>
 </p>
+
