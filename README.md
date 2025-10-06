@@ -24,5 +24,6 @@
   </a>
   <a href="https://git.io/streak-stats">
     <img height="180em" src="https://github-readme-streak-stats-gray-two.vercel.app?user=mashraf114&layout=compact&langs_count=6&theme=dracula" alt="GitHub Streak"/>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=mashraf114)](https://git.io/streak-stats)
   </a>
 </p>
