@@ -27,4 +27,8 @@
     <img height="180em" src="[https://streak-stats.demolab.com?user=mashraf114&theme=dracula&hide_border=true](https://streak-stats.demolab.com/?user=mashraf114)](https://git.io/streak-stats)" alt="GitHub Streak"/>
   </a>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://streak-stats.demolab.com?user=mashraf114&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
