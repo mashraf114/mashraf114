@@ -24,7 +24,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashraf114&layout=compact&langs_count=6&theme=dracula"/>
   </a>
   <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com?user=mashraf114&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+    <img height="180em" src="[https://streak-stats.demolab.com?user=mashraf114&theme=dracula&hide_border=true](https://streak-stats.demolab.com/?user=mashraf114)](https://git.io/streak-stats)" alt="GitHub Streak"/>
   </a>
 </p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
